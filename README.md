@@ -2,7 +2,9 @@
 
 Welcome to my Data Analytics Portfolio!
 
-As a data analyst, I have expertise gathering, organizing, and
+My name is Tianna, and I am a healthcare data analyst. 
+
+I have expertise gathering, organizing, and
 analyzing data to support business decisions utilizing a variety of
 tools and technologies. I have a thorough understanding of data
 analytics approaches including dashboard building/design, report
